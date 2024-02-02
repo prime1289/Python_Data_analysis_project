@@ -1,0 +1,31 @@
+Insights:
+
+Average Confirmed Cases:
+
+The average number of confirmed cases per country is 88,130.94, with a global total of 16,480,485 cases.
+Average Deaths:
+
+The average number of deaths per country is 3,497.52, with a global total of 654,036 deaths.
+Average Recovered Cases:
+
+The average number of recovered cases per country is 50,631.48, with a global total of 9,468,087 recoveries.
+Total Active Cases:
+
+The total number of active cases globally is 6,358,362.
+Calculated Metrics:
+
+Case Fatality Rate (CFR):
+
+The percentage of deaths relative to confirmed cases.
+Recovery Rate:
+
+The percentage of recovered cases relative to confirmed cases.
+Active Cases Percentage:
+
+The percentage of active cases relative to confirmed cases.
+Top Affected Countries/Regions by Active Cases Percentage:
+
+Identify and rank countries/regions based on the highest percentage of active cases.
+Project Description:
+
+In this data analysis project, I executed a thorough analysis of COVID-19 data using Python within Jupyter Notebook. Employing Pandas and NumPy, I conducted data cleaning, filling in missing values with SimpleImputer, and explored trends through insightful visualizations with Matplotlib. The project involved a meticulous cleaning process to handle missing values, ensuring the integrity of the dataset. Through Pandas and NumPy, I efficiently manipulated the data, paving the way for meaningful insights. Visualizations created with Matplotlib provided a clear representation of trends, offering valuable perspectives on the progression of COVID-19 cases, deaths, and recoveries. Additionally, the calculated metrics, including Case Fatality Rate (CFR), Recovery Rate, and Active Cases Percentage, added depth to the analysis. The identification of top affected countries/regions based on the highest percentage of active cases further enriched the project's findings. Through a systematic and insightful analysis, this project contributes to a better understanding of the global COVID-19 landscape.
